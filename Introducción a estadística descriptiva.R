@@ -9,7 +9,7 @@ data <- readxl::read_xlsx(path = "datos/base_bancos.xlsx", sheet = 1)
 
 # Opción 2. 
 # library(readxl)
-# base_bancos <- read_excel("~/Documents/2021/Curso Estación Lastarria/Módulo 3/datos/base_bancos.xlsx")
+# base_bancos <- read_excel("~/Documents/2021/Curso Estación Lastarria/Módulo 3/datos/base_bancos.xlsx")
 # View(base_bancos)
 
 # Opción 3.
